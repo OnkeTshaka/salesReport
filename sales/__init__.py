@@ -1,0 +1,1 @@
+default_app_confi ='sales.apps.SalesConfig'
